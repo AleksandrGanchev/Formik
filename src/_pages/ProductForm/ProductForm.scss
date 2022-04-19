@@ -1,0 +1,13 @@
+.product-form {
+  &__wrapper {
+    padding-top: 250px;
+    width: 500px;
+    margin: 0 auto;
+    height: calc(100vh - 250px);
+  }
+
+  &__button {
+    display: flex;
+    align-items: center;
+  }
+}
